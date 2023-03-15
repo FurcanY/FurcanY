@@ -9,7 +9,7 @@
 
 
 
-### GitHub profilimde birçok açık kaynaklı projeye katkıda bulunuyorum ve aynı zamanda kendi projelerimi de geliştiriyorum. <font color="purple"> C, C++ ve C#</font> dillerinde programlama yapabilirim. Ayrıca, web geliştirme alanında da kendimi geliştirmeye çalışıyorum. Blender uygulamaında 3D modellemeler yapabilirim.Ayrıca Unity Oyun motoru ile basit oyunlar yapabilirim.<br /> <br /> 
+### GitHub profilimde birçok açık kaynaklı projeye katkıda bulunuyorum ve aynı zamanda kendi projelerimi de geliştiriyorum. <font color="purple"> C, C++ ve C#</font> dillerinde programlama yapabilirim. Ayrıca, web geliştirme alanında da kendimi geliştirmeye çalışıyorum. Blender uygulamasında 3D modellemeler yapabilirim.Ayrıca Unity Oyun Motoru ile basit oyunlar yapabilirim.<br /> <br /> 
 
 
 
