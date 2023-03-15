@@ -15,6 +15,12 @@
 
 ### Hedefim, yazılım geliştirme konusunda kendimi sürekli olarak geliştirmek ve açık kaynak topluluğuna daha fazla katkıda bulunmak. Aynı zamanda, bu alanda tecrübe kazanarak ileride kendime bir oyun şirketi kurmak istiyorum.<br /> <br /> 
 
+<h3 align="left">Buradan İçeriklerime Ulaşabilirsiniz:</h3>
+<p align="left">
+<a href="https://instagram.com/y.furcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.furcan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/furcany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furcany" height="30" width="40" /></a>
+</p>
+
 
 
 ### GitHub profilimi ziyaret ederek projelerim ve katkılarımla ilgili daha fazla bilgi edinebilirsiniz.<br /> <br /> 
