@@ -13,6 +13,8 @@
 
 
 
+
+
 ### Hedefim, yazılım geliştirme konusunda kendimi sürekli olarak geliştirmek ve açık kaynak topluluğuna daha fazla katkıda bulunmak. Aynı zamanda, bu alanda tecrübe kazanarak ileride kendime bir oyun şirketi kurmak istiyorum.<br /> <br /> 
 
 <h3 align="left">Buradan İçeriklerime Ulaşabilirsiniz:</h3>
@@ -24,6 +26,12 @@
 
 
 ### GitHub profilimi ziyaret ederek projelerim ve katkılarımla ilgili daha fazla bilgi edinebilirsiniz.<br /> <br /> 
+
+
+    
+
+
+    
 
 # 📊 GitHub Verilerim:
 ![](https://github-readme-stats.vercel.app/api?username=FurcanY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
