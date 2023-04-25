@@ -34,9 +34,9 @@
     
 
 # 📊 GitHub Verilerim:
-![](https://github-readme-stats.vercel.app/api?username=FurcanY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FurcanY&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurcanY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <h3 align="left">Kullandığım Uygulamalar ve Diller:</h3>
