@@ -5,7 +5,7 @@
 
 
 
-### Merhaba! Ben Furkan, <font color="orange">Kastamonu Üniversitesi Bilgisayar Mühendisliği</font> bölümünde öğrenim gören bir öğrenciyim. Programlama, yazılım geliştirme ve teknolojiye ilgi duyuyorum.<br/> <br/> 
+### Merhaba! Ben Furkan, <font color="orange">Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği</font> bölümünde öğrenim gören bir öğrenciyim. Programlama, yazılım geliştirme ve teknolojiye ilgi duyuyorum.<br/> <br/> 
 
 
 
