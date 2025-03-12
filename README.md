@@ -1,7 +1,9 @@
-<img src=https://media.giphy.com/media/cLQUpXYTO21yg/giphy.gif
-    align="right" width="500" height="275 ">
+
 
 ## Merhaba! Ben Furkan
+
+<img src=https://media.giphy.com/media/cLQUpXYTO21yg/giphy.gif
+    align="right" width="500" height="275 ">
 Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenim gören bir öğrenciyim. Donanım tasarımı, dijital sistemler ve bilgisayar mimarisi ile ilgileniyorum.
 
 GitHub profilimde açık kaynak projelere katkıda bulunuyor ve kendi projelerimi geliştiriyorum. FPGA üzerinde SystemVerilog ile çalışarak RISC-V mimarisinde donanım tasarımı yapıyorum. C, Java ve SystemVerilog dillerini aktif olarak kullanıyorum.
