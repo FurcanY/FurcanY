@@ -22,19 +22,13 @@ Hedefim, dijital tasarım ve bilgisayar mimarisi konularında kendimi geliştire
 
     
 
-
-    
-
 # 📊 GitHub Verilerim:
+![](https://github-readme-stats.vercel.app/api?username=FurcanY&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FurcanY&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurcanY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-                                                                                                                                                                                                                                                               
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furcany&show_icons=true&locale=en&layout=compact" alt="furcany" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furcany&show_icons=true&locale=en" alt="furcany" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furcany&" alt="furcany" /></p>
+### 🔝  Repo:
+![](https://github-contributor-stats.vercel.app/api?username=FurcanY&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
