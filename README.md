@@ -1,6 +1,6 @@
 <table>
 <tr><td>
-    <img src="https://media.giphy.com/media/cLQUpXYTO21yg/giphy.gif" width="250" height="140" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5yb2F6endmMHhlN2J2ZWpuZXNxZGxobmtndXZtbDY1cW14MHEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SW9rnRp2URhFmR9tWX/giphy.gif" width="250" height="300" />
 </td><td>
 
 <h2>Merhaba! Ben Furkan</h2>
