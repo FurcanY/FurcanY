@@ -1,7 +1,8 @@
 <table>
 <tr><td>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5yb2F6endmMHhlN2J2ZWpuZXNxZGxobmtndXZtbDY1cW14MHEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SW9rnRp2URhFmR9tWX/giphy.gif" width="250" height="300" />
+    <img src="https://github.com/user-attachments/assets/d465a3e0-cefe-41e4-9a79-6327961b64d9"/>
 </td><td>
+
 
 <h2>Merhaba! Ben Furkan</h2>
 <p>
