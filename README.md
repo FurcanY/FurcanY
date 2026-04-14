@@ -4,7 +4,7 @@
 </td><td>
 
 
-<h2>Merhaba! Ben Furkan</h2>
+<h2>Merhaba Ben Furkan</h2>
 <p>
     Süleyman Demirel Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenim gören bir öğrenciyim.
     Donanım tasarımı, dijital sistemler ve bilgisayar mimarisi ile ilgileniyorum.
@@ -21,9 +21,11 @@
 </tr>
 </table>
 <br>
-https://furkanio.com/
 
 
+<img src="https://github.com/user-attachments/assets/4139b8b4-6768-434e-baaf-4b444cab9934"/>
+
+Web Sayfam: [furkanio.com](https://furkanio.com/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurcanY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
